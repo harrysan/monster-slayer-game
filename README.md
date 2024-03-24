@@ -7,4 +7,7 @@
 - If player / monster healthbar is 0 then the game is over.
 - Player can surrender to end the game.
 
+## Requirements
+- HTML + CSS + Vue JS
+
 ✨Thanks ✨
